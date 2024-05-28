@@ -1,6 +1,6 @@
 # Jogos-de-dados
 
-###Este é um simples jogo de dados feito no Python.
+### Este é um simples jogo de dados feito no Python.
 
 As regras são estas:
 tire números iguais, vença.
